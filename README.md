@@ -63,3 +63,9 @@ This project is licensed under the **GNU General Public License v3.0**. See [LIC
 ## Author
 
 **vernthedragon** — [GitHub](https://github.com/vernthedragon)
+
+##
+
+This uses the modular mathematics library I wrote
+
+**Mathematics** - [Repo](https://github.com/vernthedragon/Mathematics)
